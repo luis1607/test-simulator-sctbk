@@ -1,0 +1,37 @@
+.input-amount-container{
+margin-top: 50px;
+
+    &-input{
+    width: 100%;
+    display: flex;
+    gap: 5px;
+    border-bottom: 1px solid gainsboro;
+    margin-bottom: 10px;
+    align-items: end;
+        &-currency{
+            padding-bottom: 5px;
+            font-size: 25px;
+        }
+        &-value{
+            flex: 1;
+            border-style: none;
+            outline: none;
+            padding-bottom: 5px;
+            margin-top: 10px;
+            font-size: 20px;
+        }
+}
+    &-footer{
+        margin-top: 20px;
+        color: gray;
+    }
+}
+
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+input[type=number] { -moz-appearance:textfield; }

@@ -1,6 +1,12 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Comandos para levantar el proyecto
+
+1. Descomprimir proyecto en una carpeta.
+2. Abrir consola y ubicarse dentro de la carpeta del proyecto.
+3. Correr `npm install` en la consola para instalar dependecias.
+4. Correr `npm start` para levantar la app.
+5. Dirigirse al navegador e ingresar la siguiente URL `http://localhost:3000/`
+
 
 ## Available Scripts
 
