@@ -1,5 +1,13 @@
 
-## Comandos para levantar el proyecto
+## Comandos para levantar el proyecto por clonacion
+1. Abrir consola, ubicarse en una carpeta y ejecutar `git clone https://github.com/luis1607/test-simulator-sctbk.git`.
+2. Ubicarse en la carpeta creada.
+3. Correr `npm install` en la consola para instalar dependecias.
+4. Correr `npm start` para levantar la app.
+5. Dirigirse al navegador e ingresar la siguiente URL `http://localhost:3000/`
+
+
+## Comandos para levantar el proyecto por descarga
 
 1. Descomprimir proyecto en una carpeta.
 2. Abrir consola y ubicarse dentro de la carpeta del proyecto.
